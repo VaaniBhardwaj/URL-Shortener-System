@@ -8,7 +8,7 @@ A modern URL Shortener built with **Flask** that allows users to create short UR
 
 ## 📸 Preview
 
-![Homepage](Homepage.png)
+![Homepage](Homepage.jpeg)
 
 
 ## ✨ Features
